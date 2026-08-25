@@ -65,7 +65,7 @@ Python-Voice-Assistant/ <br>
 ##  ▶️ How to Run the Project
 ###  1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/sathvikamareddy/Python-Voice-Assistant.git
+git clone https://github.com/nitheesh011109/Python-Voice-Assistant.git
 cd Python-Voice-Assistant
 
 
